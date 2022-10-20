@@ -1,0 +1,226 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;  
+}
+
+.displaybl{
+    display: block;
+}
+
+.div1{
+    width: 100%;
+    height: 500px;
+    background-image: url(home-bg.jpg); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;  
+}
+
+
+.starth{
+    font-size: 25px;
+    padding: 1.5% 0 0 17% ;
+}
+
+.starth:hover{
+    transition: 0.5s;
+    color: gray;
+}
+
+.firsth{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 120px;
+    
+
+}
+
+.firstp{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+td{
+    padding-left: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+
+}
+
+td:hover{
+    transition: 0.5s;
+    color: gray;
+}
+
+table{
+    float: right;
+    margin-top: -90.9%;
+    margin-right: 449px;
+    display: inline;
+    color: white;
+
+
+}
+
+.div2{
+    color:black;
+    margin-top: 12%;
+    text-align: left;
+    margin-left: 33%;
+    width: 30%;
+    
+    
+
+}   
+
+.h3{
+    font-size: 230%;
+
+
+}
+
+
+.h3:hover{
+    transition: 0.4s;
+    color:rgb(88, 88, 248);
+}
+.secondp{
+    font-size: 150%;
+    padding-top: 10px;
+    
+}
+
+.secondp:hover{
+    transition: 0.4s;
+    color:rgb(88, 88, 248);
+    
+}
+
+.firstspan{
+    font-size: 110%;
+    
+    
+}
+.cursive{
+    font-family: cursive;
+}
+
+.div3{
+    color:black;
+    margin-top: 2%;
+    text-align: left;
+    margin-left: 33%;
+    width: 30%; 
+}
+
+.h4{
+    font-size: 200%;
+}
+.h4:hover{
+    transition: 0.4s;
+    color:rgb(88, 88, 248);
+}
+
+.div4{
+    color:black;
+    margin-top: 2%;
+    text-align: left;
+    margin-left: 33%;
+    width: 30%; 
+
+}
+
+.h5{
+    font-size: 200%;
+
+}
+
+.h5:hover{
+    transition: 0.4s;
+    color:rgb(88, 88, 248);
+}
+
+.btn{
+    position: absolute;
+    right: 25%;
+    width: 10%;
+    height: 5%;
+    margin-top: 3%;
+    margin-right: 2.86%;
+    background-color: #0085A1;
+    border-radius: 0;
+    color: white;
+    border-style: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+.btn:hover{
+    transition: 1s;
+    color: blue;
+}
+
+.hr2{
+    margin-top: 10%;
+}
+
+.logo{
+    text-align: center;
+    display: block;
+    padding;
+
+}
+
+.tw{
+    width: 3%;
+    padding-right: 1%;
+}
+.fb{
+    width: 3%;
+    padding-right: 1%;
+}
+.gh{
+    width: 3%;
+    padding-right: 1%;
+}
+
+.pp{
+    text-align: center;
+    padding-top: 1%;
+    color: gray;
+    font-family: cursive;
+    font-size: 115%;
+
+}
+
+.hr1{
+    padding-right: 100%;
+}
+
+hr{
+        width: 39%;
+        margin-left: 33%;
+}
+
+.home{
+    color: white;
+    text-decoration: none;
+}
+
+.about{
+    color: white;
+    text-decoration: none;
+}
+
+.samplepost{
+    color: white;
+    text-decoration: none;
+}
+
+.contact{
+    color: white;
+    text-decoration: none;
+}
